@@ -1,15 +1,10 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
-  }, {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
-  },
+    school: 'Dublin City University',
+    degree: 'BSc Computer Science',
+    link: 'https://dcu.ie',
+    year: 2013,
+  }
 ];
 
 export default degrees;

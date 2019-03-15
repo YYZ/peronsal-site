@@ -1,94 +1,48 @@
 
 const positions = [
   {
-    company: 'Arthena',
-    position: 'Cofounder, C.T.O.',
-    link: 'https://arthena.com',
-    daterange: 'January 2014 - Present',
+    company: 'ISVWorld',
+    position: 'C.T.O.',
+    link: 'https://isvworld.com',
+    daterange: 'March 2016 - Present',
     points: [
-      'Created a new financial product for private equity investing. Deployed models to predict the valuation of art at auction.',
-      'Lead development team, set development lifecycle, and managed analytics and web products.',
-      'Developed comprehensive simulations using MCMC, Modern Portfolio Theory, GLM, etc. using Scikit, PyMC3, and Jupyter.',
-      'YC Alumn. Worked on everything. Built a 16-person team.',
+      'Developing the ISVWorld API using Python/Flask and hosted on AWS',
+      'Leading the development team',
+      'Designing a combination of site specific and broad web crawlers using Scrapy, Splash and ElasticSearch',
+      'Building the backend infrastructure to support constant crawling, post-processing of crawled data and SVM classification to determine if a company is an ISV or not',
     ],
   }, {
-    company: 'Enveritas',
-    position: 'Consultant',
-    link: 'http://enveritas.org',
-    daterange: 'September 2016 - Present',
+    company: 'Wizenoze',
+    position: 'Software Engineer',
+    link: 'http://wizenoze.com',
+    daterange: 'May 2014 -July 2015',
     points: [
-      'Trained a model for the Brazilian Coffee Scenes Dataset with better than state of the art accuracy.',
-      'Collected training sets on the ground in Uganda. Built dashboards to visualize work of surveyors using Flask, React, and D3.',
-      'Performed supporting analysis to ensure data integrity using Pandas, t-SNE, SVM’s, and other techniques.',
+      'Worked on the WizeNoze API to support a content editor that helps copywriters and publishers to create age specific content for children using different NLP algorithms offered by the API',
+      'Developed the backend infrastructure for a child friendly/age specificsearch engine, using Apache Nutch for crawling and ElasticSearch for search',
+      'Worked on the frontend for both the content editor(AngularJS) and the search engine (React)',
+      'Primarily worked with Groovy/Java, Python, ElasticSearch. MySql, Tomcat and AWS services', 
+      'Worked as part of a remote team, using tools like Slack, Google Hangouts, Asana and BaseCamp to communicate',
     ],
   }, {
-    company: 'Zenysis',
-    position: 'Consultant',
-    link: 'http://zenysis.com',
-    daterange: 'February 2016 - March 2016',
+    company: 'Greenhouse Innovation',
+    position: 'Software Engineer',
+    link: 'http://greenhouseinnovation.eu',
+    daterange: 'October 2013 - April 2014',
     points: [
-      'Worked in Addis Ababa for the Ethiopian Ministry of Health and built data visualization tools in React and Flask.',
-      'Ingested multiple databases with different alphabets, calendars, and without official spellings of geographic locations.',
+      'Coded the Selly API and backend infrastructure, using Amazon Cloud Services, and heavily utilizing EC2, RDS and S3',
+      'Managed all backend infrastructure for both Snipper and Selly, and carried out all deployments',
+      'Primarily worked with Java, Unix, MySql and Tomcat',
     ],
   }, {
-    company: 'Matroid',
-    position: 'Cofounder',
-    link: 'http://matroid.com',
-    daterange: 'July 2015 - January 2016',
-    points: [
-      'Developed end to end machine learning pipeline to train visual classifiers from keywords using Node.JS, Express, Keystone, MongoDB, AWS, S3, Caffe, and other technologies.',
-      'Received Series A term sheets for 20M+ valuations.',
-    ],
-  }, {
-    company: 'Planet',
-    position: 'Missions Intern',
-    link: 'https://planet.com',
-    daterange: 'June 2014 - January 2015',
-    points: [
-      'Built models to improve image quality, signal to noise ratio, and dynamic range.',
-      'Performed statistical analysis of image quality in Matlab and Python.  Developed flight software in C++.',
-      'Organized first hackathon, prototyped hardware, and designed and built photography equipment for rocket launches.',
-    ],
-  }, {
-    company: 'Planetary Resources',
-    position: 'Avionics Intern',
-    link: 'http://planetaryresources.com',
-    daterange: 'January 2014 - May 2014',
-    points: [
-      'Developed simulations in Matlab for Attitude Determination and Control Subsystem.',
-      'Developed processes for in lab testing and characterization of various subsystems.',
-      'Assembled flight hardware in cleanroom.',
-    ],
-  }, {
-    company: 'Facebook',
+    company: 'Fidelity Investments',
     position: 'Intern',
-    link: 'https://facebook.com',
-    daterange: 'June 2013 - September 2013',
+    link: 'https://www.fidelity.com/',
+    daterange: 'September 2012 - March 2013',
     points: [
-      'Developed software in python for automated testing of servers.',
-      'Performed statistical analysis with R, HIVE to assist in triage of malfunctioning servers.',
-      'Worked with vendors and ODM’s during triage to assist in risk mitigation.',
+      'Developed a number of internal tools using powershell and bash',
+      'Worked on a small internal API using Java and Spring',
     ],
-  }, {
-    company: 'SEDS-USA',
-    position: 'At Large Board Member',
-    link: 'http://seds.org',
-    daterange: 'October 2013 - October 2014',
-    points: [
-      'Elected to Board of Directors of the USA’s largest student space advocacy group based on 5+ years of work with SEDS.',
-      'Responsibilities included: organizational strategy, conference presentations, fundraising, special projects, promoting SEDS nationally and internationally, and photographing conferences.',
-    ],
-  },
-  {
-    company: 'UB Nanosatellite Program',
-    position: 'Cofounder, Program Manager',
-    link: 'https://ubnl.space/',
-    daterange: 'October 2010 – June 2012',
-    points: [
-      'Coauthored grant to build a multispectral imaging satellite as part of the AFRL University Nanosatellite Program.',
-      'Lead a team of 60 students through satellite development life cycle. Served as a technical expert, acquired intimate working knowledge of satellite subsystems.  Solicited funding through NASA, AFOSR, and several corporate sponsors.',
-    ],
-  },
+  }
 ];
 
 export default positions;
