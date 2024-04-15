@@ -1,12 +1,28 @@
-
 #### Intro
-Hello there! I'm Sam - originally from Ireland, but currently living in Amsterdam, The Netherlands. 
-<br><br>
-I am the CTO of [ISVWorld](https://isvworld.com) where I work on engineering infrastructure and build tools to do help get better insights from large amounts of data. I mostly work with Python, but try to be hands on with as many technologies as possible. I love learning new things!
-<br><br>
-I am available to consult on interesting projects. I am particularly interested in education, search engines, crytocurrency/blockchain and machine learning. I enjoy advising companies and may even be available for pro-bono work depending on the time commitment and the project. If you would like to grab a coffee and chat, send me a mail! I am based in Amsterdam.
+
+Hello there! I'm Sam - originally from Ireland, but currently living in Amsterdam, The Netherlands.
 <br><br>
 
-#### Currently
-At ISVWorld I have learned how to build teams and manage people, build relationships with customers, sell enterprise products, and build on-line predictive models for production environments. I've also learned how to build and maintain large web applications (see [isvworld.com](https://isvworld.com)).
+#### Experience
+
+I'm a seasoned software engineer with a proven track record in leading teams and delivering
+high-quality software solutions. My expertise lies in backend development, particularly in Python,
+Flask and Django, where I've spearheaded the creation of robust APIs and managed infrastructure on
+cloud platforms like AWS and GCP.
 <br><br>
+Having worked remotely for several years across various time zones, I thrive in collaborative
+environments and excel in remote team settings. My time as CTO at ISVWorld and ISVPay equipped me
+with invaluable leadership skills, allowing me to effectively manage teams and drive projects
+forward.
+<br><br>
+My technical skill set spans a range of languages and technologies, including Python, Java, and
+various web development frameworks. Whether it's developing APIs, implementing NLP algorithms,
+building web crawlers or managing backend infrastructure, I approach every challenge with my own
+blend of problem-solving and creative thinking.
+<br><br>
+
+#### Freelance Work
+
+I'm always open to new opportunities and challenges, so if you're looking for a seasoned software
+engineer to help with your project, please reach out! I'm available for freelance work and
+consulting, and I'd love to hear about your project!
