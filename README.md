@@ -1,1 +1,1 @@
-Credit : https://hashirshoaeb.github.io/portfolio
+Credits : https://hashirshoaeb.github.io/portfolio
