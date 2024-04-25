@@ -25,7 +25,7 @@ export const navigation = {
 }
 export const intro = {
   title: 'Hey, I\'m Sam',
-  description: 'A Software Engineer experienced in building APIs, SAAS products, custom web crawlers and search tools!',
+  description: 'A Software Engineer experienced in building APIs, custom web crawlers, search tools and leading teams building SAAS products.',
   image: profile.src,
   buttons: [
     {
@@ -73,6 +73,16 @@ export const work = {
 export const projects = {
   title: 'Experience',
   cards: [
+    {
+      title: 'Moving Pixels',
+      description: 'Moving Pixels is my personal software development company. I work on a range of projects including APIs, custom web crawlers and SAAS products. I also work with clients to build custom software solutions.',
+      icons: [
+        {
+          icon: faExternalLinkSquareAlt,
+          link: 'https://www.samhalligan.com',
+        },
+      ]
+    },
     {
       title: 'Bryq',
       description: 'Bryq is a leading talent intelligence solution based on soft skills. I worked on developing the Bryq API, building new features and integrations to external partners.',
