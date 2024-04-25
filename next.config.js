@@ -27,7 +27,7 @@ console.warn(
 
 const nextConfig = {
   reactStrictMode: true,
-  basePath: "basePath",
+  basePath: basePath,
   assetPrefix: basePath,
   publicRuntimeConfig: {
     basePath: basePath,
