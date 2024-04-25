@@ -15,10 +15,10 @@ function getBasePath() {
       basePath = "/" + process.env.BASE_PATH;
     }
   }
-  return basePath
+  return ""
 }
 
-const basePath = getBasePath()
+const basePath = ""
 console.warn(
   // "Are you publishing to <username>.github.io ? then [basePath] should be empty.\n" +
   // "Are you publishing to <username>.github.io/<repository> ? then [basePath] should be /<repository>.\n" +
